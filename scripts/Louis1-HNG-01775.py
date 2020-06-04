@@ -1,4 +1,4 @@
-#My Python Scipt
+#My Python Script
 
 #details
 name = "Echefu Louis"
